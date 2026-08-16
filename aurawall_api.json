@@ -84,6 +84,39 @@
       "premium": false,
 
       "createdAt": "2026-08-16"
+    },
+    {
+      "id": "003",
+
+      "title": "Haydar Ali",
+      "subtitle": "Romantic Wallpaper",
+
+      "imageUrl": "https://4kwallpapers.com/images/walls/thumbs_3t/2025.jpg",
+
+      "thumbnailUrl": "https://4kwallpapers.com/images/walls/thumbs_3t/24698.jpg",
+
+      "category": "hydar",
+
+      "tags": [
+        "love",
+        "romantic",
+        "couple",
+        "heart"
+      ],
+
+      "resolution": {
+        "width": 1440,
+        "height": 3200
+      },
+
+      "featured": false,
+
+      "trending": true,
+
+      "premium": false,
+
+      "createdAt": "2026-08-16"
     }
+    
   ]
 }
