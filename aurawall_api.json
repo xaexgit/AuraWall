@@ -1,4 +1,3 @@
-
 {
   "version": 1,
 
@@ -8,8 +7,8 @@
       "name": "Anime"
     },
     {
-      "id": "nature",
-      "name": "Nature"
+      "id": "love",
+      "name": "Love"
     }
   ],
 
@@ -42,6 +41,39 @@
       "trending": true,
 
       "premium": true,
+
+      "createdAt": "2026-08-16"
+    },
+
+    {
+      "id": "002",
+
+      "title": "Forever Love",
+      "subtitle": "Romantic Wallpaper",
+
+      "imageUrl": "YOUR_LOVE_IMAGE_URL",
+
+      "thumbnailUrl": "YOUR_LOVE_THUMBNAIL_URL",
+
+      "category": "love",
+
+      "tags": [
+        "love",
+        "romantic",
+        "couple",
+        "heart"
+      ],
+
+      "resolution": {
+        "width": 1440,
+        "height": 3200
+      },
+
+      "featured": false,
+
+      "trending": true,
+
+      "premium": false,
 
       "createdAt": "2026-08-16"
     }
