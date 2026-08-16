@@ -1,1 +1,49 @@
 
+{
+  "version": 1,
+
+  "categories": [
+    {
+      "id": "anime",
+      "name": "Anime"
+    },
+    {
+      "id": "nature",
+      "name": "Nature"
+    }
+  ],
+
+  "wallpapers": [
+    {
+      "id": "001",
+
+      "title": "Uchiha Itachi",
+      "subtitle": "Naruto Shippuden",
+
+      "imageUrl": "https://your-image-link.com/itachi.jpg",
+
+      "thumbnailUrl": "https://your-image-link.com/itachi_small.jpg",
+
+      "category": "anime",
+
+      "tags": [
+        "dark",
+        "naruto",
+        "akatsuki"
+      ],
+
+      "resolution": {
+        "width": 1440,
+        "height": 3200
+      },
+
+      "featured": true,
+
+      "trending": true,
+
+      "premium": false,
+
+      "createdAt": "2026-08-16"
+    }
+  ]
+}
