@@ -41,7 +41,7 @@
 
       "trending": true,
 
-      "premium": false,
+      "premium": true,
 
       "createdAt": "2026-08-16"
     }
